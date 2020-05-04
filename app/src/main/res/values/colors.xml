@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorAdress">#eeeeee</color>
+    <color name="colorWelcome">#212121</color>
+    <color name="negro">#212121</color>
+    <color name="blanco">#ffffff</color>
+
+    <color name="colorForgot">#0277bd</color>
+    <color name="colorLetra">#ffffff</color>
+
+    <color name="colorBody">#414D69</color>
+
+    <color name="colorSign">#212121</color>
+    <color name="colorText">#d50000</color>
+    <color name="gray">#cfd8dc</color>
+
+
+
+</resources>

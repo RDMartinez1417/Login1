@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">HeadSpace</string>
+    <string name="contenido">Contenido</string>
+    <string name="Login">Login</string>
+    <string name="Formulario">Formulario</string>
+<!-- login-->
+    <string name="ok">Ok</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="email_adress">Email adress</string>
+    <string name="password">Password</string>
+    <string name="welcome_back"><b>Welcome Back</b></string>
+    <string name="email_address">Email address</string>
+    <string name="forgot_password"><b>Forgot password?</b></string>
+    <string name="log_in">Log in</string>
+    <string name="log_in_with_facebook">LOG IN WITH FACEBOOK</string>
+    <string name="log_in_with_spotify">LOG IN WITH SPOTIFY</string>
+    <string name="Flecha"><![CDATA[<]]></string>
+    <string name="or"><b>OR</b></string>
+    <string name="splash">Splash</string>
+    <!--Contenido-->
+    <string name="body_scan"><b>Body Scan</b></string>
+    <string name="a_simole_technique_that_will_bring_body_and_mind_into_sync">A simple technique that will bring body and \n mind into sync</string>
+    <string name="button">Play</string>
+    <string name="_1_min_animation"><![CDATA[<1 MIN - ANIMATION]]></string>
+    <string name="imagen">imagen</string>
+    <string name="todo">TODO</string>
+    <!--FORMULARIO-->
+    <string name="sign_up"><b>Sign up</b></string>
+    <string name="by_continuing_you_agree_to_headspace_s_terms_conditions_and_privacy_policy"><![CDATA[By continuing, you agree to Headspace\'s Terms & \n Conditions and Privacy Policy]]></string>
+    <string name="terms_conditions"><![CDATA[Terms & \n Conditions]]></string>
+    <string name="terms"><![CDATA[Terms &]]></string>
+    <string name="conditions">Conditions</string>
+    <string name="and">and</string>
+    <string name="flecha"><![CDATA[<]]></string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="password_8_characters">Password (8+ characters)</string>
+    <string name="get_started">GET STARTED</string>
+    <string name="sign_up_with_facebook">SIGN UP WITH FACEBOOK</string>
+    <string name="by_continuing_you_agree_to_headspace_s">By continuing, you agree to Headspace\'s</string>
+</resources>

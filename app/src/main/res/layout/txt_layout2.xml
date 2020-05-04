@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <Button
+        android:layout_width="20dp"
+        android:layout_height="30dp"
+        android:drawableLeft="@drawable/atrasn"
+        android:background="@color/gray"
+        android:paddingLeft="-45dp" />
+
+    <TextView
+        android:layout_width="223dp"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:paddingLeft="60dp"
+        android:text="@string/sign_up"
+        android:textColor="@color/negro"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+</LinearLayout>
